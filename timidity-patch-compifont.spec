@@ -13,7 +13,7 @@
 
 Name:		timidity-patch-compifont
 Version:	2016.08.13
-Release:	1
+Release:	2
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
