@@ -17,7 +17,7 @@ Release:	3
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
-URL:		http://pphidden.wixsite.com/compifont
+URL:		https://pphidden.wixsite.com/compifont
 Source0:	Compifont_13082016.sf2
 BuildArch:	noarch
 Provides:	timidity-instruments = %{patch_pkg_version}
